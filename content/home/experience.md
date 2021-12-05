@@ -22,28 +22,73 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Doctoral Researcher 
+    company: Luxembourg Center for Systems Biomedicine
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Luxembourg (LU)
+    date_start: '2020-09-01'
     date_end: ''
-    description: |2-
+    description:  
+    |2- 
+        I'm part of the Biomedical Data Science group. Integrative machine learning methods for the joint analysis of different types of omics, clinical and imaging data. 
+        
         Responsibilities include:
         
         * Analysing
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data scientist
+    company: Accenture Applied Intelligence
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Barcelona (SP)
+    date_start: '2019-04-01'
+    date_end: '2020-06-15'
+    description: 
+    |2- 
+        Applied statistics and ML models in a wide range of industries and projects. Forecasting sales, computer vision OCR, statistics for fraud detection, visualization.
+    
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Data analyst
+    company: Capgemini
+    company_url: ''
+    company_logo: org-x
+    location: Barcelona (SP)
+    date_start: '2018-09-01'
+    date_end: '2019-03-30'
+    description: 
+    |2- 
+        Use of SAS to access, manage, analyze and present data. Daily tasks related to SAS developer role, consultant and a migration of data from different database versions (data warehouse).
+    
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Bioinformatician - intern
+    company: Pharmacelera
+    company_url: ''
+    company_logo: org-x
+    location: Barcelona (SP)
+    date_start: '2018-02-01'
+    date_end: '2018-07-30'
+    description: 
+    |2- 
+        Heuristics for computing hydrophobic properties based on quantum mechanics calculations applied to virtual screening and the alignment of molecules in drug discovery. Built a pipeline x30 times faster without compromising accuracy.
+    
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
   columns: '2'

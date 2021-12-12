@@ -25,7 +25,7 @@ experience:
   - title: Doctoral Researcher 
     company: Luxembourg Center for Systems Biomedicine
     company_url: ''
-    company_logo: org-gc
+    company_logo: unilu-logo
     location: Luxembourg (LU)
     date_start: '2020-09-01'
     date_end: ''
@@ -42,24 +42,27 @@ experience:
   - title: Data scientist
     company: Accenture Applied Intelligence
     company_url: ''
-    company_logo: org-x
+    company_logo: accenture-logo
     location: Barcelona (SP)
     date_start: '2019-04-01'
     date_end: '2020-06-15'
-    description: 
-    |2- 
-        Applied statistics and ML models in a wide range of industries and projects. Forecasting sales, computer vision OCR, statistics for fraud detection, visualization.
-    
+    description: >-
+        Applied statistics and ML models in a wide range of industries and projects. Forecasting sales, computer vision OCR, statistics for fraud detection, visualization. 
+        
+        
         Responsibilities include:
         
+        
         * Analysing
+        
         * Modelling
+        
         * Deploying
         
   - title: Data analyst
     company: Capgemini
     company_url: ''
-    company_logo: org-x
+    company_logo: capgemini-logo
     location: Barcelona (SP)
     date_start: '2018-09-01'
     date_end: '2019-03-30'
@@ -76,7 +79,7 @@ experience:
   - title: Bioinformatician - intern
     company: Pharmacelera
     company_url: ''
-    company_logo: org-x
+    company_logo: pharmacelera-logo
     location: Barcelona (SP)
     date_start: '2018-02-01'
     date_end: '2018-07-30'

@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/ElisaGdeLope_CVweb.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,10 +73,10 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm Elisa. Welcome to my website. I'm a data enthusiast coming from a multidisciplinary background that includes biotech & bioinformatics. Motivated about machine learning methods applied to life science challenges. I also like carrot cake, white wine and a good book.
+Welcome to my website. I'm a data enthusiast coming from a multidisciplinary background that includes biotech & bioinformatics. Motivated about machine learning methods applied to life science challenges. I also like carrot cake, white wine and a good book.
 
 
 I studied biotechnology and bioinformatics, I'm currently pursuing doctoral studies in Biomedical data science. I worked in tech consulting as a data scientist before starting my PhD. I have a broad spectrum of interests, but the most important thing to know about me is that I get really immersed in my projects and put all my energy to go the extra mile.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ElisaGdeLope_CVweb.pdf" "newtab" >}}resumé{{< /staticref >}}.

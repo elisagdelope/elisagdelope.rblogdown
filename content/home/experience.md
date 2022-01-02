@@ -35,9 +35,9 @@ experience:
         
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * State of the Art research and definition of experiments and project strategy
+        * Scripting and modelling 
+        * Validation of results
         
   - title: Data scientist
     company: Accenture Applied Intelligence
@@ -53,11 +53,11 @@ experience:
         Responsibilities include:
         
         
-        * Analysing
+        * Extraction, preprocessing and analysing data from different formats
         
         * Modelling
         
-        * Deploying
+        * Preparing scripts and models for deployment
         
   - title: Data analyst
     company: Capgemini
@@ -72,9 +72,9 @@ experience:
     
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Data extraction on SAS
+        * Database migration
+        * Scripting on SAS/SAS-SQL
         
   - title: Bioinformatician - intern
     company: Pharmacelera
@@ -89,9 +89,9 @@ experience:
     
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Research in virtual screening techniques
+        * Parametrization of hydrophobic descriptors
+        * Build and validate the parametrized pipeline on external data
 
 design:
   columns: '2'

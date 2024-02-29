@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Biomedical Data Science
     institution: University of Luxembourg
-    year: 2023
+    year: 2024
   - course: MSc in Bioinformatics
     institution: Universitat Autonoma de Barcelona
     year: 2018
@@ -74,10 +74,14 @@ email: ""
 highlight_name: true
 ---
 
-Welcome to my website. I'm motivated about machine learning methods applied to life science challenges. I also like carrot cake, white wine and a good book.
+### Welcome to my corner of the internet! 👋
+I'm interested in applying machine learning methods to solve challenges in the biomedical realm. 
 
+My background includes a blend of machine (and deep) learning modelling & bioinformatics, and I develop statistical and ML methods to identify blood-based molecular markers of Parkinson's disease diagnosis and prognosis for my [doctoral studies](https://www.uni.lu/lcsb-en/research-groups/biomedical-data-science/). I was recently awarded a fellowship to do a research visit in Cambridge, where I focused on exciting graph representation learning models (aka graph ML or geometric DL) with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) (Cambridge Univeristy) and  [Petar Veličković](https://www.linkedin.com/in/petarvelickovic/?originalSubdomain=uk) (Google DeepMind).
 
-I studied biotechnology and bioinformatics, and I'm currently pursuing doctoral studies in Biomedical data science. I worked in tech consulting as a data scientist and interned as a bioinformatician before starting my PhD. I have a broad spectrum of interests, but the most important thing to know about me is that I get really immersed in my projects and put all my energy to go the extra mile.
+Beyond research, I'm a fellow of the 2023 [MIT Catalyst fellowhip program](https://catalyst.mit.edu/), where I explore the space of un-met needs in health(-tech) and I proudly serve as a [global shaper](https://www.globalshapers.org/) recognized by the World Economic Forum of Geneva. 
+
+At work and in life, I thrive in collaborative, engaging atmospheres and enjoy sports, from padel tennis to running, with a special fondness for outdoor activities. While at Cambridge, I raced with the triathlon club the Varsity duathlon against Oxford - quite an experience! In my downtime, I enjoy indulging in a good book and the occasional slice of carrot cake with a glass of white wine.
 
 Disclaimer: this site is currently under (active) construction!
 

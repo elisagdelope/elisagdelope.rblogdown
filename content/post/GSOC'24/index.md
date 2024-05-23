@@ -15,7 +15,7 @@ tags: []
 categories: []
 
 date: 2024-05-21T18:22:01+01:00
-lastmod: 2024-05-21T18:22:01+01:00
+lastmod: 2024-05-22T18:23:01+01:00
 
 featured: false
 
@@ -36,6 +36,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
 
 As I was finalizing my PhD thesis in late 2023, I had the fortune of connecting with [Paulina Paiz](https://pau-paiz.notion.site/Lina-Paiz-6516127ba94e4d8fa58d26e97d207357), a Stanford master's student with a shared background and passion for tech and bio. Upon learning about my research, she introduced me to Google Summer of Code (GSoC). Her insights and experience with the program piqued my interest, leading me to explore the world of open-source contributions.
 

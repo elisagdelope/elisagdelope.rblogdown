@@ -11,7 +11,7 @@ role: PhD student in Biomedical Data Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Luxembourg
-  url: https://wwwen.uni.lu/lcsb/people/elisa_gomez
+  url: https://www.uni.lu/fstm-en/people/elisa-gomez-de-lope/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistics, data mining, -omics, and drug discovery.
@@ -75,13 +75,17 @@ highlight_name: true
 ---
 
 ### Welcome to my corner of the internet! 👋
-I'm interested in applying machine learning methods to solve challenges in the biomedical realm. 
+I'm interested in applying machine learning methods to solve challenges in the biomedical realm.
 
-My background includes a blend of machine (and deep) learning modelling & bioinformatics, and I develop statistical and ML methods to identify blood-based molecular markers of Parkinson's disease diagnosis and prognosis for my [doctoral studies](https://www.uni.lu/lcsb-en/research-groups/biomedical-data-science/). I was recently awarded a fellowship to do a research visit in Cambridge, where I focused on exciting graph representation learning models (aka graph ML or geometric DL) with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) (Cambridge Univeristy) and  [Petar Veličković](https://www.linkedin.com/in/petarvelickovic/?originalSubdomain=uk) (Google DeepMind).
+My background includes a blend of machine (and deep) learning modelling & bioinformatics. I currently work at the University of Luxembourg, where I extend my PhD work on graph representation learning for omics data. Additionally, I'm a [Google summer of code '24 contributor](https://summerofcode.withgoogle.com/programs/2024/projects/554MrMl8) on the [*deepchem*](https://deepchem.readthedocs.io/en/latest/) library, where I integrate protein language models for predicting binding sites.
+
+I recently graduated from my doctoral studies (yay!), in which I focused on statistical and ML methods to identify blood-based molecular markers for Parkinson's disease diagnosis and prognosis. One of the highlights of my PhD was being awarded [Fondation de Luxembourg's fellowship](https://www.uni.lu/fstm-fr/news/2022-pelican-grant-five-doctoral-students-awarded/) to do a research visit in Cambridge, where I focused on exciting graph representation learning models (aka graph ML or geometric DL) with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) (Cambridge Univeristy) and  [Petar Veličković](https://www.linkedin.com/in/petarvelickovic/?originalSubdomain=uk) (Google DeepMind).
 
 Beyond research, I'm a fellow of the 2023 [MIT Catalyst fellowhip program](https://catalyst.mit.edu/), where I explore the space of un-met needs in health(-tech) and I proudly serve as a [global shaper](https://www.globalshapers.org/) recognized by the World Economic Forum of Geneva. 
 
 At work and in life, I thrive in collaborative, engaging atmospheres and enjoy sports, from padel tennis to running, with a special fondness for outdoor activities. While at Cambridge, I raced with the triathlon club the Varsity duathlon against Oxford - quite an experience! In my downtime, I enjoy indulging in a good book and the occasional slice of carrot cake with a glass of white wine.
+
+Now that you know me a bit better, please don't hesitate to get in touch if you'd like to chat about any of the above (or anything in techbio) or if you're interested in collaborating on a project. I'm always open to new opportunities and connections 🤗 
 
 Disclaimer: this site is currently under (active) construction!
 

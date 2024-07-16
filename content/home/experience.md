@@ -22,13 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Google summer of code contributor 
+    company: Deepchem
+    company_url: 'https://deepchem.readthedocs.io/en/latest/'
+    company_logo: gsoc-logo
+    location: Luxembourg (LU)
+    date_start: '2024-05-01'
+    date_end: ''
+    description:  
+    |2-    
+        Integrated Hugging Face pLM ESM-2 in DeepChem open source library for predicting protein binding sites. 
+        
+        Production-level coding and tutorials, proposal was accepted within 13.4% acceptance rate. See more about my project  [here](https://summerofcode.withgoogle.com/programs/2024/projects/554MrMl8).
+        
+
+  - title: Postdoctoral Researcher 
+    company: University of Luxembourg, Dept. of Engineering
+    company_url: ''
+    company_logo: unilu-logo
+    location: Luxembourg (LU)
+    date_start: '2024-03-01'
+    date_end: ''
+    description:  
+    |2-    
+        Graph representation learning for modelling omics data (extension of PhD project).
+        
+        Boosting Prot2text, a deep learning model to predict protein function from sequence and structure data.
+        
   - title: Doctoral Researcher 
     company: Luxembourg Center for Systems Biomedicine
     company_url: ''
     company_logo: unilu-logo
     location: Luxembourg (LU)
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2023-12-31'
     description:  
     |2- 
         I'm part of the Biomedical Data Science group. Integrative machine learning methods for the joint analysis of different types of omics, clinical and imaging data. 

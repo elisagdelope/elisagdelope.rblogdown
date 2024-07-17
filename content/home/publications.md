@@ -2,10 +2,10 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false
+active: true #false
 
 # This file represents a page section.
-headless: false
+headless: true #false
 
 # Order that this section appears on the page.
 weight: 90

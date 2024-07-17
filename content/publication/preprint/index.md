@@ -1,9 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson’s Disease"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2024-06-20T00:00:00Z"
+doi: "https://doi.org/10.48550/arXiv.2406.14442"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,26 +18,27 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Omics data analysis is crucial for studying complex diseases, but its high dimensionality and heterogeneity challenge classical statistical and machine learning methods. Graph neural networks have emerged as promising alternatives, yet the optimal strategies for their design and optimization in real-world biomedical challenges remain unclear. This study evaluates various graph representation learning models for case-control classification using high-throughput biological data from Parkinson's disease and control samples. We compare topologies derived from sample similarity networks and molecular interaction networks, including protein-protein and metabolite-metabolite interactions (PPI, MMI). Graph Convolutional Network (GCNs), Chebyshev spectral graph convolution (ChebyNet), and Graph Attention Network (GAT), are evaluated alongside advanced architectures like graph transformers, the graph U-net, and simpler models like multilayer perceptron (MLP). These models are systematically applied to transcriptomics and metabolomics data independently. Our comparative analysis highlights the benefits and limitations of various architectures in extracting patterns from omics data, paving the way for more accurate and interpretable models in biomedical research.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
+#  url: https://arxiv.org/html/2406.14442v1
+url_source: 'https://arxiv.org/html/2406.14442v1'
+url_pdf: https://arxiv.org/pdf/2406.14442v1
+url_code: 'https://github.com/elisagdelope?tab=repositories'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -51,19 +52,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

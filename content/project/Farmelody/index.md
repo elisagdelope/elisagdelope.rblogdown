@@ -7,7 +7,7 @@ tags:
 date: "2022-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://farmelody.com/
+external_link: https://www.prototypesforhumanity.com/project/farmelody/
 
 image:
   caption: Photo by Flash Dantz on Unsplash

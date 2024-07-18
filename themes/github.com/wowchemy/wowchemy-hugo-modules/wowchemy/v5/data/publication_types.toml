@@ -9,5 +9,6 @@ types = [ "pub_uncat",
           "pub_book_section",
           "pub_thesis",
           "pub_patent",
-          "pub_conf_abstract"  # New type
+          "pub_conf_abstract",  # New type
+          "pub_package",  # New type
         ]

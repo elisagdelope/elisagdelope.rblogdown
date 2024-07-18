@@ -201,6 +201,9 @@
 - id: pub_conf_abstract
   translation: Conference abstract  # New type
 
+- id: pub_package
+  translation: Software package  # New type
+
 # Project details
 
 - id: open_project_site

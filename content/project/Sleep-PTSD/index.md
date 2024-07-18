@@ -4,6 +4,7 @@ summary: Objective sleep data to guide treatment of sleep disturbance in PTSD. `
 #An example of linking directly to an external project website using `external_link`.
 tags:
 - Demo
+- Discontinued
 date: "2023-07-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

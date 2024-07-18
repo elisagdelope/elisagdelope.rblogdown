@@ -4,6 +4,7 @@ summary: Data-driven 'farm-tech', our secret weapon is the analysis of microbiom
 #An example of linking directly to an external project website using `external_link`.
 tags:
 - Demo
+- Discontinued
 date: "2022-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

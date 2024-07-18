@@ -33,7 +33,7 @@ abstract: Parkinson’s disease (PD) is a highly heterogeneous disorder influenc
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Research
 featured: true 
 
 # links:

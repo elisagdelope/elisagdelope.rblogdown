@@ -45,7 +45,7 @@ url_video: 'ISMBECCB2023_1251_GomezdeLope_poster.mp4'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Me all postered up in Lyon for ISMB/ECCB 2023, very excited to present my work on GNNs for the first time'
   focal_point: ""
   preview_only: false
 

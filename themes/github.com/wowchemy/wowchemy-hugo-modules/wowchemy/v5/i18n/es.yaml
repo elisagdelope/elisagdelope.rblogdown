@@ -118,6 +118,8 @@
   translation: Tesis
 - id: pub_patent
   translation: Patente
+- id: pub_conf_abstract
+  translation: Abstract de conferencia # New type
 - id: open_project_site
   translation: Ir al sitio del proyecto
 - id: posts

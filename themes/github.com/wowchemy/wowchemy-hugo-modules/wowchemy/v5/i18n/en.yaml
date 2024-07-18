@@ -198,6 +198,9 @@
 - id: pub_patent
   translation: Patent
 
+- id: pub_conf_abstract
+  translation: Conference Abstract  # New type
+
 # Project details
 
 - id: open_project_site

@@ -38,7 +38,7 @@ url_poster: 'Poster-ESCS2022.pdf'
 url_project: ''
 url_slides: ''
 url_source: 'https://orbilu.uni.lu/handle/10993/52061'
-url_video: 'publication/conference-abs-ECCB2022/ESCS22.mp4'
+url_video: 'ESCS22.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -1,16 +1,15 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "On foundation models for biology (MLCB'24)"
 
 subtitle: "Notes from the Machine Learning for Computational Biology 2024 conference discussion panel"
 
-summary: ""
+summary: "Notes from the Machine Learning for Computational Biology 2024 conference discussion panel"
 
 authors: 
 - admin
 
-tags: []
+tags: 
+- Academic
 
 categories: []
 

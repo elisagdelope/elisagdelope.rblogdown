@@ -15,7 +15,7 @@ tags: []
 categories: []
 
 date: 2024-05-15T18:22:01+01:00
-lastmod: 2024-05-16T18:22:01+01:00
+lastmod: 2024-09-12T18:22:01+01:00
 
 featured: false
 
@@ -27,7 +27,8 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  placement: 2
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -58,6 +59,7 @@ Embarking on this adventure requires a solid understanding of both biology and m
 
 [**Decoding Protein Structures: From AlphaFold to Beyond**](https://www.recursion.com/news/demystifying-protein-structure-prediction-models-alphafold-rosettafold-esmfold-and-beyond): Blog post from Recursion. It discusses *Multiple Sequence Alignment (MSA)* in the context of several PLMs, such as AlphaFold2, RoseTTaFold, OmegaFold, HelixFold-Single, and ESMFold, and their performance in terms of accuracy, speed, and reliance on additional gene sequencing information for inference (i.e. structure prediction).  
 
+[**The Illustrated AlphaFold**](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/): A visual and friendly walkthrough of the AlphaFold3 architecture. It contains an exhaustive series of diagrams that help understand all the details of how molecules are represented in the model and the operations that convert them into a predicted structure.
 
 <br>
 
@@ -92,8 +94,10 @@ The very recent [Nature paper on AlphaFold3](https://www.nature.com/articles/s41
 <br>
 
 ## **Getting your hands dirty with code**
-[**Train Your Own Protein Language Model In Just a Few Lines of Code**](https://www.blopig.com/blog/2023/04/train-your-own-protein-language-model-in-just-a-few-lines-of-code/): A step-by-step guide from the Oxford Protein Informatics Group on implementing and fine-tuning a PLM using the HuggingFace Transformers library.
 
+[Protein Language Models (Intuition): A First Look at Modeling Syntax and Semantics of the Known Protein Universe](https://github.com/deepchem/deepchem/blob/master/examples/tutorials/ProteinLM_Tutorial0.ipynb): This tutorial is part of the DeepChem library (open source) and provides a hands-on introduction to protein language models in which I myself contributed a part. It covers the basics of protein language models, including methods for learning languages, differences between MSA-aware and non-MSA-aware pLMs, and an illustrative example with the evolutionary statistics of Hemoglobin 𝛽 and its ProtBERT learned representation.
+
+[**Train Your Own Protein Language Model In Just a Few Lines of Code**](https://www.blopig.com/blog/2023/04/train-your-own-protein-language-model-in-just-a-few-lines-of-code/): A step-by-step guide from the Oxford Protein Informatics Group on implementing and fine-tuning a PLM using the HuggingFace Transformers library.
 
 [**Predicting Protein-Protein Interactions Using a Protein Language Model**](https://huggingface.co/blog/AmelieSchreiber/protein-binding-partners-with-esm2): A tutorial-style blog post in Hugging Face explaining how to use ESM-2 to score pairs of proteins using masked language modeling loss, for predicting protein-protein interactions. It's a great tutorial to get started with ESM-2 and Hugging Face Transformers written by the talented Amelie Schreiber. I won't hide it, I'm quite a fan of her work, in particular her [Hugging Face articles/tutorials](https://huggingface.co/AmelieSchreiber). 
 
@@ -105,7 +109,6 @@ The very recent [Nature paper on AlphaFold3](https://www.nature.com/articles/s41
 [**GitHub - facebookresearch/esm**](https://github.com/facebookresearch/esm): Dive into the GitHub repository of the Fundamental AI Research Protein Team (FAIR) Protein team at Meta, which includes the code and pre-trained weights for transformer PLMs such as the cutting-edge ESM-2 and ESMFold, together with the MSA Transformer, ESM-1v and ESM-IF1. 
 
 [**GitHub - google-deepmind/alphafold**](https://github.com/google-deepmind/alphafold): In 2020 AlphaFold took the world by storm and was recognized to solve the “protein folding problem”. The code of v1 and v2 is open-source and available on GitHub. The most recent version, AlphaFold3, has just been released, expanding the capabilities beyond proteins to a broad spectrum of biomolecules, and incorporating diffusion to their previous transformer-based architecture (Evoformer). The model is accessible through a free [server](https://golgi.sandbox.google.com/about), but a bit dissapointingly, the code and weights are not available.
-
 
 [**ESM - Hugging Face docs**](https://huggingface.co/docs/transformers/en/model_doc/esm): Explore this page for augmented documentation on pre-trained ESM2 models as well as usage examples by the community.
 

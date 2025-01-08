@@ -141,11 +141,10 @@ That comparison hit me hard. In Europe, it feels worlds apart, as we don't have 
 ### The takeaway: Making AI human again
 
 Felix’s post isn’t just about the stress; it’s a call to action for a kinder, more compassionate and supportive AI community. 
-The world of AI might be built on weights and biases, but Felix reminds us that it’s still a human endeavor.
-He believed in AI research and its potential to solve humanity’s greatest challenges. 
+The world of AI might be built on weights and biases, but it’s still a human endeavor.
 
-But he also challenged us to make the field emotionally sustainable, ensuring that we care for ourselves as much as we care for the systems we build.
-But his post is also a challenge to the rest of us: Can we make this field emotionally sustainable? We should ensure that we care for ourselves as much as we care for the systems we build.
+He believed in AI research and its potential to solve humanity’s greatest challenges, but also challenged us to make it emotionally sustainable; 
+We should ensure that we care for ourselves as much as we care for the systems we build.
 So, here’s to Felix—and to making AI research not just a force for good, but a place where the people creating the future can thrive too.
 
 

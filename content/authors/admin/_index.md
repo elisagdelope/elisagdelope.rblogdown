@@ -79,7 +79,7 @@ highlight_name: true
 ### A world of opportunity 👋
 I apply machine learning methods to solve challenges in biomedicine.
 
-Currently working at Keysight Technologies as a ML researcher, my background includes a blend of machine (and deep) learning modelling & bioinformatics.
+Currently working at Keysight Technologies as an ML researcher, my background includes a blend of machine (and deep) learning modelling & bioinformatics.
 
 Some highlights of the last years: 
 - Contributed to [DeepChem](https://deepchem.io/) integrating a protein language model to predict binding sites as part of the [Google Summer of Code](https://summerofcode.withgoogle.com/) fellowship.

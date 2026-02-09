@@ -5,7 +5,7 @@ title: "On the weight of AI: Felix Hill’s 200Bn Weights of Responsibility"
 
 subtitle: ""
 
-summary: "A reflection on the transformative potential of simply asking for what you want or need, and how taking the initiative can lead to surprising opportunities and benefits. While asking doesn't guarantee success, it opens doors and creates opportunities for growth."
+summary: "The human cost, relentless stress, and loss of scientific creativity behind the fast-paced, high-stakes race for AI dominance in big tech labs."
 
 authors: 
 - admin

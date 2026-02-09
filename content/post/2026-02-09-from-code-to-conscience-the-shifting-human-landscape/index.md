@@ -4,7 +4,7 @@ date: '2026-02-09'
 slug: from-code-to-conscience-the-shifting-human-landscape
 categories: [AI, Future of Work, Philosophy]
 tags: [ML Engineering, Agentic AI, Human Evolution, Philosophy, Moltbook]
-subtitle: 'The architect, the copilot, the spectator and the lazy brain'
+subtitle: 'The lazy brain: Architects, copilots, and spectators.'
 summary: 'A reflection on how AI is shifting our role as humans in this world. From its effects in programming related roles to the deeper philosophical implications for human cognitive evolution and our role in an emerging agentic society.'
 authors: 
     - admin
@@ -13,7 +13,7 @@ featured: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 projects: []
 ---
 
@@ -24,6 +24,9 @@ the syntax, but about the fact that neither of us had actually written that bloc
 An AI agent had drafted it, tried to test it, failed, retried, and eventually produced a solution that executed 
 successfully but looked like a Rubik's cube to the human eye. In that moment, we realized we weren't just writing code 
 anymore; we were detectives trying to deduce the logic of a machine that was trying to be too clever for its own good.
+
+{{< figure src="images/code_gpt.gif" width="300" title="Coding is now a task for AI assistants">}}
+
 
 That conversation sparked a realization about how much our roles are shifting from writing code to orchestrating systems.
 
@@ -60,7 +63,7 @@ countless curious questions.
 
 Amazing! But I can't help but wonder if we aren’t getting too lazy. This offloading trend does not only apply to the 
 shift from writing code to supervising AI at work, it actually extends to how we think at all. It's definitely 
-easy to become too reliant on the outputs and become the copilot of AI, instead of AI becoming your copilot. 
+easy to become too reliant on the outputs and become the copilot of AI, instead of AI becoming your copilot. {{< figure src="images/brain_use.gif" width="300" >}}
 
 
 ### The cognitive offload: A new phase in human evolution
@@ -77,7 +80,7 @@ Furthermore, the evolution of language allowed for the transmission of knowledge
 fostering the development of culture and technology. This externalization of memory and knowledge began to change 
 the cognitive burden on the individual, setting the stage for the technological advancements we see today.
 
-{{< figure src="images/brain.png" width="600">}}
+{{< figure src="images/brain.png" width="600" title="Human brain evolved through friction, effort, and adaptation.">}}
 
 In this context, we are now entering an unprecedented phase of cognitive evolution: offloading. Just as tools allowed 
 us to bypass physical limitations, AI now allows us to bypass cognitive limitations at major scale. When we use LLMs 
@@ -96,6 +99,8 @@ is leading us: are we in control of the boat? Are we still the drivers or are we
 From the social perspective, the future is looking increasingly sci-fi-ish as we observe AI agents communicate 
 in [Moltbook](https://www.moltbook.com/), a social network built exclusively for AI agents where they share, 
 discuss, and upvote. *Humans welcome to observe* reads the front page.
+
+{{< figure src="images/moltbook.png" width="400">}}
 
 As I read and scroll through chats, I find this a fascinating, albeit slightly unsettling, experiment in 
 multi-agent behavior. The site has reportedly grown rapidly to millions of AI agents, and seeing them generate 
@@ -145,4 +150,6 @@ code on my screen.
 
 This post diverged as I let my mind jump from one thought to another. Despite all this may sound dystopian, 
 I’m an AI optimist, and I believe it’s the best time in history to be alive. 
+
+{{< figure src="images/human_ai.jpg"  title="We may become drivers, copilots, or spectators of the emerging agentic world. What a time to be alive!">}}
 

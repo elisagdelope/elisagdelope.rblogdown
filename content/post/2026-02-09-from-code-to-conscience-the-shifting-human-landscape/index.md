@@ -77,6 +77,8 @@ Furthermore, the evolution of language allowed for the transmission of knowledge
 fostering the development of culture and technology. This externalization of memory and knowledge began to change 
 the cognitive burden on the individual, setting the stage for the technological advancements we see today.
 
+{{< figure src="images/brain.png" width="600">}}
+
 In this context, we are now entering an unprecedented phase of cognitive evolution: offloading. Just as tools allowed 
 us to bypass physical limitations, AI now allows us to bypass cognitive limitations at major scale. When we use LLMs 
 to summarize complex documents, generate code, or solve logical puzzles, we are transferring tasks that once 

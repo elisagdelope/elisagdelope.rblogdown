@@ -22,13 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Machine Learning R&D 
+    company: Keysight Technologies
+    company_url: 'https://www.keysight.com/us/en/home.html'
+    company_logo: KT-logo
+    location: Spain (SP)
+    date_start: '2024-10-01'
+    date_end: ''
+    description:  
+    |2-    
+        First hire at Keysight’s AI Labs. 
+        
+        I develop ML models to predict complex physical systems, specializing in graph-based models, neural operators, and Physics-Informed ML (PINNs). My work focuses on creating reliable surrogate models and digital twins to accelerate real-world simulations.
+
+        Key impact: Filed 3 invention disclosures within my first year. 
+        
+
   - title: Google summer of code contributor 
     company: Deepchem
     company_url: 'https://deepchem.readthedocs.io/en/latest/'
     company_logo: gsoc-logo
     location: Luxembourg (LU)
     date_start: '2024-05-01'
-    date_end: ''
+    date_end: '2024-09-01'
     description:  
     |2-    
         Integrated Hugging Face pLM ESM-2 in DeepChem open source library for predicting protein binding sites. 
@@ -42,7 +58,7 @@ experience:
     company_logo: unilu-logo
     location: Luxembourg (LU)
     date_start: '2024-03-01'
-    date_end: ''
+    date_end: '2024-09-01'
     description:  
     |2-    
         Graph representation learning for modelling omics data (extension of PhD project).

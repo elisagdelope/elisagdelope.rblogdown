@@ -6,7 +6,7 @@ slug: celera-emotional-intelligence
 categories: []
 tags: ["Celera", "Soft Skills"]
 subtitle: ''
-summary: ''
+summary: 'Reflections on the first sessions of Celera: understanding emotions as a functional compass rather than just "feelings".'
 authors: []
 lastmod: '2026-04-06T19:16:41+02:00'
 featured: false

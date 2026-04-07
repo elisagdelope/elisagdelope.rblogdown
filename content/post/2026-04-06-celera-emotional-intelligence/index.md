@@ -1,12 +1,12 @@
 ---
-title: 'Celera I: Emotional intelligence & self-regulation'
+title: 'Celera I: Emotional intelligence & self-regulation, by an engineer'
 author: R Build
 date: '2026-04-06'
 slug: celera-emotional-intelligence
 categories: []
 tags: ["Celera", "Soft Skills"]
 subtitle: ''
-summary: 'Reflections on the first sessions of Celera: understanding emotions as a functional compass rather than just "feelings".'
+summary: 'Reflections with an analytical perspective on the first sessions of Celera: decoding emotions as a functional compass rather than just "feelings".'
 authors: []
 lastmod: '2026-04-06T19:16:41+02:00'
 featured: false
@@ -35,64 +35,94 @@ the common thread is clear: emotions are not just feelings; they have a very cle
 
 
 ### What are emotions for? 
-Emotions identify what is happening to us so we can name it, communicate it, and "resolve" it. 
-An emotion is a reaction based on our needs. This response happens on three levels:
-
-Emotions serve a vital purpose. They identify what we are feeling ("what is happening to me?") so we can name it,
-communicate it, and "resolve" it. An emotion is a reaction based on our needs. It fulfills the function of informing us 
+Emotions serve a vital purpose. They identify what we are feeling (i.e., *"what is happening to me?"*) so we can name it,
+communicate it, attend it, and "resolve" it. Importantly, an emotion is a reaction based on our needs. It fulfills the function of informing us 
 so we can take action. This response happens on three levels:
 
-* **Physiological:** Changes in breathing, heart rate, or sweating.
-* **Motor:** Actions like crying, fleeing, or reaching out.
-* **Mental:** Shifts in thought patterns and changes in attention. Nowadays, this is the most common response, as we tend 
-to "repress" the motor and physiological responses since they are most times not socially accepted.
+* **Physiological:** Changes in breath rythm, heart rate, or sweating are examples of physiological responses. 
+For instance, if we are in danger and our safety is compromised in any way, our body may increase our heart beat and breath rhythm. 
+* **Motor:** Actions like crying, fleeing, or reaching out are motor responses to emotions.
+* **Mental:** Shifts in thought patterns and changes in attention. Nowadays, this is the most common response, often showing as
+a cascade of thoughts (remember last time you could not stop thinking about something you were worried about, or afraid from, or 
+excited about?). 
 
-
+Showing emotions or emotional responses publicly is not socially accepted. Hence, we often tend to "repress" our responses,
+especially the motor and physiological ones, as they could be seen. However, neglecting emotions can evolve into huge
+burden. Thinking that time will heal our wounds is misleading. With time, something else will happen to you and you will
+feel other emotions. But whenever the specific situation that caused a certain emotion that was neglected appears,
+the emotion will emerge.
 
 > *"An emotion attends to a need."*
 
+The idea that time heals all wounds is misleading, and waiting for things to pass is rarely a successful strategy.
+While time provides new events and stimuly that will eventually shift your attention and trigger new emotions, 
+the original, neglected emotion hasn't disappeared. The underlying need has not been attended. 
+Whenever a situation mirrors the original event causing it, that neglected emotion will re-emerge.
+
+
 ### The socio-emotional wheel (MAT)
 
-One of the most visual parts of the session was the wheel of socio-emotional needs. It maps specific emotions to the fundamental needs they protect:
-
-| Stimulus | Emotion | Underlying Need | Action to be Taken |
-| :--- | :--- | :--- | :--- |
-| Threat | **Fear** | Security | Set limits |
-| Loss | **Sadness** | Development | Acceptance |
-| Injustice | **Anger** | Justice | Self-defense / Resolution |
-| Admiration | **Pride** | Recognition | Acknowledge achievement |
-| Safe Space | **Love** | Belonging | Care and attention |
-| Opportunity| **Joy** | Fullness | Experience plenitude |
+One of the most visual parts of the session was the wheel of socio-emotional needs. 
+It maps specific emotions to the fundamental needs they protect:
 
 {{< figure src="images/emotions_wheel.jpeg" width="500" title="The wheel of emotions and what to do with them">}}
 
-We often mis-interpret or mis-identify the authentic emotions that we should be feeling. For example, we tend to feel anger in a traffic jam. 
-However, if you dig deep enough, it's sadness that we should be feeling, since it's a loss of time, and it's that void that we should fill 
-somehow, for instance, listening to a podcast, to "attend our need" (the loss of our valuable time in this case), and resolve that feeling.
-
-One realization that really striked me is that, as adults, we are "owed" very few things. Essentially, we are only owed respect.
-This striked me as I guess I tend to think people close to me somehow "owe" me something (??) and I expect them to, for instance
-do a favor if I ask. I don't mean necessarily big things, but, you know, small things. Apparently, we are not really owed anything,
-even from family or friends.
-
-We experience emotions as we interact with stimuli, and we must learn to resolve these emotions by addressing the underlying need they reflect.
-
-Emotional disregulation happens either when we do not identify what we are feeling, when we feel something that is not what we shoud be feeling*,
-and/or when we feel the "right" emotion but in disproportionate degree.
+I build the following table to see it more clearly, because this leads to a simple but powerful circular logic: 
+*"What does this emotion want me to do?"* If the emotion is authentic, the action is clear. 
+Anger wants you to defend yourself from injustice; Fear wants you find safety. 
+When we perform this action (e.g., set limits in case of fear), the emotion fulfills its purpose and dissipates.
+This is why we should conceive emotions as our functional compass.
 
 
-*\*What we feel is not right or wrong. However, there is a specific emotion (the "authentic" emotion) that will help us "resolve" or attend the underlying need in a way that we stop or alleviate to a large extent feeling such emotion.*
+> | Stimulus | Emotion | Underlying need | Action to be taken |
+> | :---: | :---: | :---: | :---: |
+> | Threat | **Fear** | Safety | Set limits |
+> | Loss | **Sadness** | Development | Acceptance |
+> | Injustice | **Anger** | Justice | Defend justice / rebel |
+> | Admiration | **Pride** | Recognition | Acknowledge achievement |
+> | Safe space | **Love** | Belonging | Care and attention |
+> | Opportunity| **Joy** | Fullness | Enjoy |
 
-#### The "Algorithm" of Action
-This leads to a simple but powerful circular logic: **"What does this emotion want me to do?"** If the emotion is authentic, the action is clear. 
-Anger wants you to defend yourself from injustice; Fear wants you to find safety. When we follow this "algorithm," the emotion fulfills its purpose and dissipates.
+Sadness is a very interesting emotion, since it's the one that pushes us to grow and develop. Sadness comes from
+identifying a loss or a void - something we do not have. It may be a person we no longer have with us, but it can also 
+be lost time, a lost ability, capacity, or means. To transition through and resolve this sadness, we must
+accept the loss, and find a way to overcome it. 
 
-#### When the compass fails: The dysfunction matrix
-However, we often get stuck in emotional disfunctions. This happens when we use the "wrong" emotion for a stimulus. 
+This might mean finding someone who provides a similar support to what the lost person provided, finding a 
+meaningful way to use "lost time," or learning how to operate without a specific ability we once had. 
+This may sound frivolous, but it is not a matter of finding "substitutes" in a shallow way. It's simply how we 
+humans work to cover ourvneeds and maintain our well-being when our usual "sources" change. 
+If we lose the source that was meeting a certain need, we must find a new way to provide that for ourselves. 
+Think of it as a somewhat natural "functional resilience"
 
-{{< figure src="images/emotional_disregulation.jpeg" title="Emotional disfunction matrix">}}
+We often misinterpret or misidentify the authentic emotions we should* be feeling (those that will help us transition through/
+resolve that emotion), and sadness is particularly tricky. We often mask loss with other emotions, like anger or fear.
 
-Looking at the session's matrix of disfunctions, it becomes clear why we sometimes feel "off":
+Take the example of a traffic jam: we tend to feel anger (*sometimes, a lot of anger indeed!*). However, if you 
+dig deep enough, the "authentic" emotion is often sadness: you are experiencing a loss of your valuable time. 
+If you recognize it as sadness, you can "resolve" it by filling that void (for instance, by listening to a podcast). 
+By attending to the actual need (using that time meaningfully), the frustration dissipates.
+
+When thinking of anger (what is an "injustice" to me?), one realization that really struck me is that, as adults, we are "owed" very few things. Essentially, we are only 
+owed respect. I realized I often unconsciously assume people close to me "owe" me certain things, even small favors. 
+Apparently, once we turn adults, we are not really owed anything, even from family or friends. I particularly paid 
+attention to this for a few of weeks, and noticed that when I stop expecting others to "owe" me, I am forced to 
+take more agency over my own needs (both emotional and not). 
+
+*\*What we feel is not right or wrong. However, there is a specific emotion (the "authentic" emotion) that will 
+help us "resolve" or attend the underlying need in a way that we stop or alleviate to a large extent feeling such emotion.*
+
+
+### When the compass fails: The dysfunction matrix
+
+Despite the clarity of the wheel introduced above, we often get stuck in emotional dysfunction and dysregulation. 
+Emotional dysfunction happens when we fail to identify the emotion we are feeling (hence we cannot act), 
+when we feel an emotion that is not the "authentic" one we should be feeling upon a stimulus (hence we cannot resolve it), 
+or when we do feel the "authentic" emotion but in a disproportionate degree (dysregulation).
+
+{{< figure src="images/emotional_disregulation.jpeg" title="Emotional dysfunction matrix">}}
+
+Looking at the matrix of dysfunctions, it becomes clear why we sometimes feel "off":
 * Feeling anger when we should feel sadness leads to hysteria.
 * Feeling pride when we should feel anger leads to arrogance.
 * Feeling fear when we should feel love leads to lack of trust and commitment.

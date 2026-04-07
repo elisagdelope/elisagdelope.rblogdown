@@ -6,7 +6,7 @@ title: "Elisa G. de Lope"
 superuser: true
 
 # Role/position/tagline
-role: Bioinformatician in ML
+role: ML researcher at Keysight Technologies
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,14 +16,14 @@ organizations:
   url: https://catalyst.mit.edu/2023spring/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistics, data mining, -omics, and drug discovery.
+bio: I bridge the gap between ML and complex problems across physics and biology, specializing in graph representation learning and biomedical data.
 
 # Interests to show in About widget
 interests:
-- Machine learning
-- Graph representation learning
-- Omics data
-- Drug discovery
+- Geometric deep learning (GNNs, GNOs,...)
+- Explainable AI (XAI)
+- Omics data & drug discovery
+- Leadership
 
 # Education to show in About widget
 education:
@@ -77,13 +77,15 @@ highlight_name: true
 ---
 
 ### A world of opportunity 👋
-I apply machine learning methods to solve challenges in biomedicine.
+I apply machine learning methods to solve complex challenges in biomedicine and physical systems.
 
-Currently working at Keysight Technologies as an ML researcher, my background includes a blend of machine (and deep) learning modelling & bioinformatics.
+Currently working at Keysight Technologies as an ML researcher, I focus on developing graph-based world models. 
+My background includes a blend of ML modelling & bioinformatics.
 
 Some highlights of the last years: 
+- Innovating at Keysight Technologies: In my first year, I submitted 3 IP disclosures focusing on graph-based architectures and explainability of world models for physical systems.
 - Contributed to [DeepChem](https://deepchem.io/) integrating a protein language model to predict binding sites as part of the [Google Summer of Code](https://summerofcode.withgoogle.com/) fellowship.
-- Recently completed my PhD (yay!), focusing on statistical, ML, and graph representation learning methods to identify blood-based molecular markers for Parkinson's disease diagnosis and prognosis. Feature selection and engineering, confounding factors & explainable AI. Check it out [here](https://orbilu.uni.lu/handle/10993/60638)!
+- Completed my PhD (yay!), focusing on statistical, ML, and graph representation learning methods to identify blood-based molecular markers for Parkinson's disease diagnosis and prognosis. Feature selection and engineering, confounding factors & explainable AI. Check it out [here](https://orbilu.uni.lu/handle/10993/60638)!
 - During my PhD I got a [Fondation de Luxembourg's fellowship](https://www.uni.lu/fstm-fr/news/2022-pelican-grant-five-doctoral-students-awarded/) to visit Prof. [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) (Cambridge University) and  [Petar Veličković](https://www.linkedin.com/in/petarvelickovic/?originalSubdomain=uk) (Google DeepMind). I focused on graph representation learning models for omics data.
 - While at Cambridge, racing with the triathlon club the Varsity duathlon against Oxford - quite an experience! *Obviously, we won*
 - Fellow of the 2023 [MIT Catalyst program](https://catalyst.mit.edu/), exploring unmet needs in health(-tech) 
